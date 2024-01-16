@@ -1,1 +1,1 @@
-This IS my 1st Project in Data Analysis Field
+This is my 1st Project in the Data Analysis Field. It's about Sales Analysis
